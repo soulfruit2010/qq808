@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "QQ808-Situs-Judi-Slot-Online-Gacor-Terpercaya.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "eventamp",
       "title": "EventAMP",
@@ -81,6 +81,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true,
+    "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-GTMR9R0WE2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-GTMR9R0WE2');\n</script>",
     "canonical-url": false
   },
   "pages": {
