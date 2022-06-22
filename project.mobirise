@@ -64,13 +64,13 @@
     "uniqCompNum": 100,
     "versionPublish": "5.6.8",
     "screenshot": "screenshot.png",
-    "robotsSwitcher": false,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: \nDisallow: /cgi-bin/\nSitemap: https://trixter.net/sitemap.xml",
     "favicon": false,
     "mbrsiteDomain": "ausljgznq5",
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://trixter.net/sitemap.xml",
     "pwa-switcher": true,
     "PWA": {
       "enabled": true,
@@ -81,7 +81,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true,
-    "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-GTMR9R0WE2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-GTMR9R0WE2');\n</script>",
+    "global_header_custom": "",
     "canonical-url": false
   },
   "pages": {
