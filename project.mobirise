@@ -80,7 +80,7 @@
     },
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "global_header_custom": "",
     "canonical-url": false,
     "google-analytics": "<amp-analytics type=\"gtag\" data-credentials=\"include\">\n<script type=\"application/json\">\n{\n  \"vars\" : {\n    \"gtag_id\": \"<G-GTMR9R0WE2>\",\n    \"config\" : {\n      \"<G-GTMR9R0WE2>\": { \"groups\": \"default\" }\n    }\n  }\n}\n</script>\n</amp-analytics>\n\n<amp-analytics type=\"gtag\" data-credentials=\"include\">\n<script type=\"application/json\">\n{\n  \"vars\" : {\n    \"gtag_id\": \"G-GTMR9R0WE2\",\n    \"config\" : {\n      \"<TARGET_ID>\": { \"groups\": \"default\" }\n    }\n  }\n}\n</script>\n</amp-analytics>"
